@@ -1,0 +1,14 @@
+{
+  "keybinding.mcdaycount.category": "Day Counter Mod",
+  "keybinding.mcdaycount.config": "Open config for the mod",
+  "title.mcdaycount.config": "Day Counter",
+  "category.mcdaycount.category": "category",
+  "category.mcdaycount.position": "Position",
+  "category.mcdaycount.string": "Text",
+  "category.mcdaycount.background": "Background",
+  "entry.position.x.name": "X position percentage",
+  "entry.position.y.name": "Y position percentage",
+  "entry.stringtext.name": "String",
+  "entry.stringcolor.name": "Color RGB",
+  "entry.backgroundcolor.name": "Color ARGB"
+}

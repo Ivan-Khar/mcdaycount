@@ -1,0 +1,33 @@
+
+modLoader="javafml"
+loaderVersion="[43,)"
+license="CC BY-NC 3.0"
+issueTrackerURL="https://github.com/Ivan-Khar/mcdaycount/issues/"
+[[mods]]
+modId="mcdaycount"
+version="${file.jarVersion}"
+displayName="MC Day Counter mod"
+credits="Shows world day count on the HUD"
+authors="Aqua_tic (Ivan)"
+displayTest="IGNORE_ALL_VERSION"
+description='''
+This mod just adds day counter on the HUD.
+'''
+[[dependencies.mcdaycount]]
+    modId="forge"
+    mandatory=true
+    versionRange="[43,)"
+    ordering="NONE"
+    side="CLIENT"
+[[dependencies.mcdaycount]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.19.2,1.20)"
+    ordering="NONE"
+    side="CLIENT"
+[[dependencies.mcdaycount]]
+    modId="cloth_config"
+    mandatory=true
+    versionRange="[8, 9)"
+    ordering="NONE"
+    side="CLIENT"
